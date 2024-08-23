@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideojuegoRanking.Api", "VideojuegoRanking.Api\VideojuegoRanking.Api.csproj", "{4A2DFE7F-BA87-4428-AD7D-7C7010B314B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideojuegoRanking.Application", "VideojuegoRanking.Application\VideojuegoRanking.Application.csproj", "{F4891D44-C97A-4C2E-8740-E5E83A678992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideojuegoRanking.Core", "VideojuegoRanking.Core\VideojuegoRanking.Core.csproj", "{2B83B0A7-4F5D-486F-9275-F9ABF9476A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideojuegoRanking.Infrastructure", "VideojuegoRanking.Infrastructure\VideojuegoRanking.Infrastructure.csproj", "{15D5B47E-58AA-4F55-8FDA-3356CCD68269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideojuegoRanking.Tests", "VideojuegoRanking.Tests\VideojuegoRanking.Tests.csproj", "{EFD2ED2A-7A23-4E95-85D1-4561567AD945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A2DFE7F-BA87-4428-AD7D-7C7010B314B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2DFE7F-BA87-4428-AD7D-7C7010B314B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2DFE7F-BA87-4428-AD7D-7C7010B314B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2DFE7F-BA87-4428-AD7D-7C7010B314B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4891D44-C97A-4C2E-8740-E5E83A678992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4891D44-C97A-4C2E-8740-E5E83A678992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4891D44-C97A-4C2E-8740-E5E83A678992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4891D44-C97A-4C2E-8740-E5E83A678992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B83B0A7-4F5D-486F-9275-F9ABF9476A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B83B0A7-4F5D-486F-9275-F9ABF9476A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B83B0A7-4F5D-486F-9275-F9ABF9476A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B83B0A7-4F5D-486F-9275-F9ABF9476A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D5B47E-58AA-4F55-8FDA-3356CCD68269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D5B47E-58AA-4F55-8FDA-3356CCD68269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D5B47E-58AA-4F55-8FDA-3356CCD68269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D5B47E-58AA-4F55-8FDA-3356CCD68269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD2ED2A-7A23-4E95-85D1-4561567AD945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD2ED2A-7A23-4E95-85D1-4561567AD945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD2ED2A-7A23-4E95-85D1-4561567AD945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD2ED2A-7A23-4E95-85D1-4561567AD945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
